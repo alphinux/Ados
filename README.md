@@ -22,7 +22,7 @@ cd Ados
 chmod +x *
 ```
 
-### 4.Install aiohttp
+### 4. Install requirements
 
 ```bash
 pip3 install aiohttp
