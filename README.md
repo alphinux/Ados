@@ -1,7 +1,7 @@
 # Ados
 
 A lightweight **Python DoS testing tool** designed to run in **Termux (No Root Required)** and other Linux environments.
-
+![Alt text](Ados.jpg)
 ## ⚙️ Installation
 
 ### 1. Clone the repository
