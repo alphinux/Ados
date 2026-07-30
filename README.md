@@ -2,7 +2,7 @@
 
 A lightweight **Python DoS testing tool** designed to run in **Termux (No Root Required)** and other Linux environments.
 ![Alt text](Ados.jpg)
-## ⚙️ Installation
+## ⚙️ Installation (Termux)
 
 ### 1. Clone the repository
 
@@ -22,7 +22,13 @@ cd Ados
 chmod +x *
 ```
 
-### 4. Run the tool
+### 4.Install aiohttp
+
+```bash
+pip3 install aiohttp
+```
+
+### 5. Run the tool
 
 ```bash
 python3 a-dos.py
