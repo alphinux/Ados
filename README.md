@@ -25,7 +25,7 @@ chmod +x *
 ### 4. Run the tool
 
 ```bash
-python3 ados.py
+python3 a-dos.py
 ```
 
 ## 📱 Requirements
